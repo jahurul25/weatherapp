@@ -8,8 +8,10 @@ before run the project need to install dependencies for django & react.
 
 Commands: 
 
+
 ----Run Backend----
 python manage.py runserver
+
 
 ----Run React Client----
 Folder name is client
